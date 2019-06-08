@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="customtable1" max_length="40" name="x_64306_custom1_customtable1" type="collection"/>
+    <element label="customtable1" max_length="40" name="x_64306_custom1_customtable1" type="collection">
+        <element label="ashish check" max_length="40" name="ashish_check" type="string"/>
+    </element>
 </database>
